@@ -1,11 +1,13 @@
-package com.example.showmethelist3;
+package com.example.showmethelist3.viewmodel;
 
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.showmethelist3.R;
+
+public class MainActivityViewModel extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
